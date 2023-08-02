@@ -1,33 +1,17 @@
-# Test Project
-   
+# Module 9 Challenge
 
-   ## Description
-   This is a description.
+This project was designed for us to allow a user to create README file. The user
+enters their input for the given categories and then the README file is generated
+using those inputs. 
 
-   ## Table of Contents
-   - [Installation](#installation)
-   - [Usage](#usage)
-    
-   - [Contributing](#contributing)
-   - [Testing](#testing)
-   = []
+I was able to accomplish this by:
+   -Using inquirer to create input prompts
+   -Creating functions for the generateMarkdown file to display input
+   -Testing in node.js
 
-   ## Installation
-   This is how you install.
+This one was a little bit simpler because we had to go off of with the starter code 
+and we just needed to make sure the prompt was asking the questions we needed answers to.
 
-   ## Usage
-   This is the usage.
+The starter code can be found here: https://github.com/coding-boot-camp/potential-enigma
 
-   ## Contributing
-   This is the contributing.
-
-   ## Tests
-   This is how you test.
-
-   ## License
-   This application is covered under the None license. 
-
-   ## Questions
-   Additional Questions:
-   Email: email@email.com
-   GitHub: https://github.com/This is the username.
+A video demonstration can be found here: 
